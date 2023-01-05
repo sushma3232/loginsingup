@@ -1,0 +1,16 @@
+{
+    "user": [
+        {
+            "user_name": "keerthi",
+            "password": "Keerthi@123",
+            "profile": {
+                "description": "hello",
+                "birth": 162002,
+                "hobbies": "talking",
+                "gender": "female"
+            }
+        }
+    ]
+}
+
+

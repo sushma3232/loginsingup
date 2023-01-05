@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "username": "likitha",
+            "password": "Likitha@123",
+            "profile": {
+                "description": "hello",
+                "date of birth": 12345678,
+                "hobbies": "singing",
+                "gender": "female"
+            }
+        }
+    ]
+}
